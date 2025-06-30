@@ -1,2 +1,5 @@
-# DP_and_greedy_assignment
- Used dp and greedy algorithms to solve fun problem
+# Dynamic Programming and Greedy Algorithm
+
+ Used dynamic programming technics and greedy algorithm to solve fun problem.
+ Please read description.pdf to get a full idea.
+ 
