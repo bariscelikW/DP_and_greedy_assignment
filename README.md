@@ -4,9 +4,9 @@
  
  Please read description.pdf to get a full idea.
 
- # BBM204 Programming Assignment 2: Finding Diamond in Search of Gold
+ # Finding Diamond in Search of Gold
 
-This assignment is written in Java and covers two algorithmic approaches: **Dynamic Programming** and **Greedy Programming**, inspired by a sci-fi problem scenario involving treasure retrieval and resource optimization.
+This solution is written in Java and covers two algorithmic approaches: **Dynamic Programming** and **Greedy Programming**, inspired by a sci-fi problem scenario involving treasure retrieval and resource optimization.
 
 ## 🚀 Overview
 
